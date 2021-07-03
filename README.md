@@ -3,9 +3,26 @@
 
 ## Key takeaways from the project: 
   
-  1. EDA
-  2. Data Cleaning( Regex)  
+  1. Data Cleaning( Regex)
+  2. EDA
   3. Data visulization (Pandas, Seaborn, Matpolib)
+  
+  ## Data cleaning--somethings we would like to focus on:
+  - All Tech/IT jobs
+  - Internship jobs
+  - Entry level jobs
+  - No specific qualification required
+  - No experience required
+
+  ### What did we cleaned for the Tech industry dataset?
+  1. Delete unnamed and dupulicated column
+  2. Job types: Internship, Full-time, Part-time
+  3. Job level: focus on 'Entry level' for the fresh grad
+  4. Salary: find the average
+  5. Qualification: focus on 'Not specific'
+  6. Experience: focus on 'Not specific' or 'No experience'
+
+  
  ![Screenshot (142)](https://user-images.githubusercontent.com/80455832/124356885-35e83380-dc4b-11eb-9c4b-c90d5c4359cf.png) 
 ![Screenshot (143)](https://user-images.githubusercontent.com/80455832/124356900-48626d00-dc4b-11eb-80d1-1c5f15c28f3d.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/80455832/124356903-4bf5f400-dc4b-11eb-8731-a4c38125a058.png)
